@@ -1,2 +1,1 @@
-// load project
-import './project/index';
+// code goes here
