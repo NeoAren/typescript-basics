@@ -3,7 +3,6 @@
    "version": "1.0.0",
    "description": "Using TypeScript with Node and Express",
    "author": "NeoAren",
-   "main": "app.js",
    "scripts": {
       "start": "nodemon -e ts --exec \"tsc && node dist/app.js\"",
       "build": "tsc"

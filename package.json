@@ -1,32 +1,20 @@
 {
-   "name": "typescript-basics",
+   "name": "typescript-course",
    "version": "1.0.0",
-   "description": "Basic TypeScript concepts and exercises",
-   "main": "app.js",
-   "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "webpack serve",
-      "build": "webpack --config webpack.config.prod.js"
-   },
+   "description": "TypeScript's basic and advanced features and usage with Express and React",
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/NeoAren/typescript-basics.git"
+      "url": "git+https://github.com/NeoAren/typescript-course.git"
    },
    "keywords": [
       "typescript",
-      "basics"
+      "course",
+      "example-project"
    ],
    "author": "NeoAren",
    "license": "MIT",
    "bugs": {
-      "url": "https://github.com/NeoAren/typescript-basics/issues"
+      "url": "https://github.com/NeoAren/typescript-course/issues"
    },
-   "homepage": "https://github.com/NeoAren/typescript-basics#readme",
-   "devDependencies": {
-      "ts-loader": "^8.0.14",
-      "typescript": "^4.1.3",
-      "webpack": "^5.11.1",
-      "webpack-cli": "^4.3.1",
-      "webpack-dev-server": "^3.11.1"
-   }
+   "homepage": "https://github.com/NeoAren/typescript-course#readme"
 }
