@@ -1,2 +1,2 @@
-# typescript-basics
-📘 Basic TypeScript concepts and exercises
+# TypeScript Course
+📘 TypeScript's basic and advanced features and usage with Express and React
