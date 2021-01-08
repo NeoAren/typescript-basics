@@ -2,24 +2,11 @@
    "name": "typescript-advanced",
    "version": "1.0.0",
    "description": "Advanced TypeScript concepts and features",
+   "author": "NeoAren",
    "scripts": {
       "watch": "tsc -w",
       "build": "tsc"
    },
-   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/NeoAren/typescript-basics.git"
-   },
-   "keywords": [
-      "typescript",
-      "advanced"
-   ],
-   "author": "NeoAren",
-   "license": "MIT",
-   "bugs": {
-      "url": "https://github.com/NeoAren/typescript-basics/issues"
-   },
-   "homepage": "https://github.com/NeoAren/typescript-basics#readme",
    "devDependencies": {
       "typescript": "^4.1.3"
    }
